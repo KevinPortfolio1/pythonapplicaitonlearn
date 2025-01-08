@@ -1,0 +1,2 @@
+# pythonapplicaitonlearn
+python應用
